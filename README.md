@@ -1,1 +1,1 @@
-![Calculator](images/calculator.jpg)
+![Calculator](calculator.jpg)
