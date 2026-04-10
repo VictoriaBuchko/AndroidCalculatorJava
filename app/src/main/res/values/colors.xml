@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- фон -->
+    <color name="bg_screen">#FF1A1A2E</color>
+
+    <!-- результат -->
+    <color name="bg_result_field">#FF16213E</color>
+    <color name="text_result">#FFFFFFFF</color>
+    <color name="text_operation">#FFFFB703</color>
+
+    <!-- цифры -->
+    <color name="bg_btn_number">#FF0F3460</color>
+    <color name="text_btn_number">#FFFFFFFF</color>
+
+    <!-- опр -->
+    <color name="bg_btn_operation">#FFFFB703</color>
+    <color name="text_btn_operation">#FF1A1A2E</color>
+
+    <!-- кнопка = -->
+    <color name="bg_btn_equals">#FFE94560</color>
+    <color name="text_btn_equals">#FFFFFFFF</color>
+</resources>
